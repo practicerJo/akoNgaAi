@@ -182,13 +182,13 @@
       height: 100%;
       object-fit: cover;
       display: block;
-      filter: grayscale(60%);
+      filter: grayscale(80%);
 
 
     }
 
     .photo-box img:hover {
-      filter: grayscale(40%);
+      filter: grayscale(20%);
 
     }
 
